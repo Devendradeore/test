@@ -1,0 +1,14 @@
+What Is Version Control?
+A system called version control, sometimes referred to as source control or revision control, keeps track of changes made to a file or group of files over time so that you may retrieve particular versions at a later time. Although it can be applied to any circumstance where several versions of something are made and may need to be monitored and recalled, it is most frequently employed in software development.
+
+What GIT?  
+Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+Git relies on the basis of distributed development of software where more than one developer may have access to the source code of a specific application and can modify changes to it that may be seen by other developers..
+Initially designed and developed by Linus Torvalds for Linux kernel development in 2005.
+Every git working directory is a full-fledged repository with complete history and full version tracking capabilities, independent of network access or a central server.
+Git allows a team of people to work together, all using the same files. It helps the team cope with the confusion that tends to happen when multiple people are editing the same files.
+What Is GitHub?
+GitHub is an web based platform which hosts software development projects and uses Git for version management. Git is a distributed version control system that helps developers to work together on same software projects and keep track of changes made to their code by on another. GitHub offers a user-friendly interface, which is very collaborative tools, and more project management tools, GitHub will enhance the potential of the Git.
+
+GitHub allows developers to create and manage the code in the repository in the remote location where others can aceses the code or Github is an collection repositories which contains the files of the project.
+
