@@ -1,7 +1,7 @@
 What Is Version Control?
 A system called version control, sometimes referred to as source control or revision control, keeps track of changes made to a file or group of files over time so that you may retrieve particular versions at a later time. Although it can be applied to any circumstance where several versions of something are made and may need to be monitored and recalled, it is most frequently employed in software development.
 
-What GIT?  
+What GIT  
 Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 Git relies on the basis of distributed development of software where more than one developer may have access to the source code of a specific application and can modify changes to it that may be seen by other developers..
 Initially designed and developed by Linus Torvalds for Linux kernel development in 2005.
